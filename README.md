@@ -111,7 +111,7 @@ We trained and evaluated five models:
 ---
 
 ## 📁 Project Structure
-Breast-Cancer-Detection/
+  Breast-Cancer-Detection/
 │
 ├── breast_cancer_notebook.ipynb # Full analysis and modeling
 ├── requirements.txt # Required Python libraries
